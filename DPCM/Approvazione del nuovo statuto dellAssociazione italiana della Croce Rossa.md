@@ -1,0 +1,264 @@
+DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 05 luglio 2002 n. 208
+
+
+DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 05 luglio 2002 n. 208
+=======================================================================
+
+Approvazione del nuovo statuto dell'Associazione italiana della Croce Rossa.
+----------------------------------------------------------------------------
+
+Entrata in vigore del decreto: 9-10-2002
+
+CAPO I NUOVO STATUTO DELL'ASSOCIAZIONE ITALIANA DELLA CROCE ROSSA Capo I Disposizioni generali
+----------------------------------------------------------------------------------------------
+
+### Art. 1
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 2
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 3
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 4
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 5
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 6
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 7
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 8
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 9
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 10
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 11
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 12
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 13
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 14
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 15
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+CAPO II Capo II Ordinamento SEZIONE I Organi
+--------------------------------------------
+
+### Art. 16
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+CAPO III SEZIONE II Comitato centrale
+-------------------------------------
+
+### Art. 17
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 18
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 19
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 20
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 21
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 22
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 23
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 24
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 25
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 26
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 27
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+CAPO IV SEZIONE III Comitato regionale
+--------------------------------------
+
+### Art. 28
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 29
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 30
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 31
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 32
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 33
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 34
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+CAPO V SEZIONE IV Centri di mobilitazione
+-----------------------------------------
+
+### Art. 35
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+CAPO VI SEZIONE V Comitato provinciale
+--------------------------------------
+
+### Art. 36
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 37
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 38
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 39
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 40
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 41
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 42
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+CAPO VII SEZIONE VI Comitato locale
+-----------------------------------
+
+### Art. 43
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 44
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 45
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 46
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 47
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 48
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+CAPO VIII Capo III Patrimonio e amministrazione
+-----------------------------------------------
+
+### Art. 49
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 50
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 51
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 52
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 53
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 54
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 55
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 56
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
+
+### Art. 57
+
+((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 6 MAGGIO 2005, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-05-06;97)))
