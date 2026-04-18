@@ -1,0 +1,20 @@
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 aprile 1980 n. 275
+
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 aprile 1980 n. 275
+=============================================================
+
+Soppressione della fabbriceria della chiesa parrocchiale di S. 
+Stefano, in Ome.
+--------------------------------------------------------------------------------
+
+Art. 1
+------
+
+N.
+
+275. Decreto del Presidente della Repubblica 24 aprile 1980, col quale, sulla proposta del Ministro dell'interno, la fabbriceria della chiesa parrocchiale di S. Stefano, in Ome (Brescia), viene soppressa.  
+  
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 16 giugno 1980  
+Registro n. 11 Interno, foglio n. 182
